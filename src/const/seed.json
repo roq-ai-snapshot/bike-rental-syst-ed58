@@ -1,0 +1,776 @@
+[
+  {
+    "bike": [
+      {
+        "id": "acae33e1-638a-4c4b-8858-1b0f4098faa9",
+        "status": "Available",
+        "created_at": "2023-08-13T12:41:55.181Z",
+        "updated_at": "2023-08-13T21:24:22.528Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2eb15adf-795b-4349-8ad6-ec2ea69cf500",
+        "status": "In Use",
+        "created_at": "2023-08-13T10:02:01.753Z",
+        "updated_at": "2023-08-13T23:35:32.575Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dfd9b391-6f2b-4f79-821a-9400332ffc95",
+        "status": "Under Maintenance",
+        "created_at": "2023-08-14T03:31:28.635Z",
+        "updated_at": "2023-08-13T14:06:24.588Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d72eda10-1b95-468f-af9c-7cf1820310c9",
+        "status": "Reserved",
+        "created_at": "2023-08-13T13:09:11.150Z",
+        "updated_at": "2023-08-13T12:33:17.601Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "073703a7-d982-48c8-ac14-15b90339336e",
+        "status": "Out of Service",
+        "created_at": "2023-08-14T02:32:04.739Z",
+        "updated_at": "2023-08-13T22:07:54.758Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0fda14c9-e760-40d5-b22c-c82b211b3ef6",
+        "email": "Dion95@gmail.com",
+        "firstName": "Emmy",
+        "lastName": "Konopelski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/47.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "56181784-4dab-4248-85d7-e4416c0224ea",
+        "email": "Shana98@yahoo.com",
+        "firstName": "Lesley",
+        "lastName": "Daugherty",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75298422",
+        "tenantId": null
+      },
+      {
+        "reference": "edc0bff6-3e01-4a1d-bdbf-0182c753b9d5",
+        "email": "Rex_Swaniawski@gmail.com",
+        "firstName": "Lawson",
+        "lastName": "Littel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55102172",
+        "tenantId": null
+      },
+      {
+        "reference": "1bd435f0-c5a1-40c4-af04-7d135f55c134",
+        "email": "Isaac90@gmail.com",
+        "firstName": "Ursula",
+        "lastName": "Wunsch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/936.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0218535d-05a1-43f1-b5a6-b4d43c92292f",
+        "email": "Orland_Schultz14@gmail.com",
+        "firstName": "Meta",
+        "lastName": "Breitenberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20887957",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "bike": [
+      {
+        "id": "c668a252-c70b-4b51-9f46-b641bd6c7719",
+        "status": "Available",
+        "created_at": "2023-08-13T10:37:39.888Z",
+        "updated_at": "2023-08-14T07:53:12.064Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5f37c7cf-594b-497b-b0a2-7f7bdc83e5d5",
+        "status": "In Use",
+        "created_at": "2023-08-14T01:12:22.260Z",
+        "updated_at": "2023-08-13T21:34:31.604Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "14544b72-e354-4289-8b17-c6bd080737ab",
+        "status": "Under Maintenance",
+        "created_at": "2023-08-13T20:52:17.645Z",
+        "updated_at": "2023-08-14T02:17:30.807Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dbe0d614-21a6-454f-a8d3-05fc6deecaf8",
+        "status": "Reserved",
+        "created_at": "2023-08-13T20:06:57.107Z",
+        "updated_at": "2023-08-13T23:06:17.197Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5208ab2d-e408-4088-9d54-19eae0455093",
+        "status": "Out of Service",
+        "created_at": "2023-08-13T17:39:48.738Z",
+        "updated_at": "2023-08-13T22:35:43.153Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "4a786c41-2fb7-497a-993d-e068d455ba18",
+        "email": "Josefina_Skiles43@hotmail.com",
+        "firstName": "Darian",
+        "lastName": "Towne",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46546020",
+        "tenantId": null
+      },
+      {
+        "reference": "ed123586-dc83-4b2f-93ea-73d180ba9635",
+        "email": "Virgie.Osinski@gmail.com",
+        "firstName": "Bobby",
+        "lastName": "Gutmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59052013",
+        "tenantId": null
+      },
+      {
+        "reference": "a9ea57d6-60e2-42fc-a18c-af74512378f3",
+        "email": "Korbin_Paucek@hotmail.com",
+        "firstName": "Monserrate",
+        "lastName": "Walter",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35565932",
+        "tenantId": null
+      },
+      {
+        "reference": "e7f22813-184e-4ded-9ee6-4958b2b2f04a",
+        "email": "Clifton_Hermiston20@gmail.com",
+        "firstName": "Carole",
+        "lastName": "Nolan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66228352",
+        "tenantId": null
+      },
+      {
+        "reference": "4e006cdc-8c4e-4153-9714-3cd03c3e08c3",
+        "email": "Stanley.Abernathy@gmail.com",
+        "firstName": "Annabell",
+        "lastName": "Gerlach",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/568.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "bike": [
+      {
+        "id": "c1fe224f-93d7-4178-8aca-988e2211aa94",
+        "status": "Available",
+        "created_at": "2023-08-13T13:29:29.699Z",
+        "updated_at": "2023-08-13T20:45:45.549Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1fca390d-879d-4ae2-b7de-0d589a39a44d",
+        "status": "In Use",
+        "created_at": "2023-08-14T04:06:14.085Z",
+        "updated_at": "2023-08-14T02:37:50.831Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f8c0e6f6-9495-4228-b2c0-18e897de26eb",
+        "status": "Under Maintenance",
+        "created_at": "2023-08-13T19:20:27.066Z",
+        "updated_at": "2023-08-13T13:27:20.716Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c86d7a4d-8ecd-43e7-a566-e82e0f2adb2c",
+        "status": "Reserved",
+        "created_at": "2023-08-13T19:57:41.284Z",
+        "updated_at": "2023-08-13T18:04:11.415Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c4331d28-75d0-4ed6-a7cb-a68405bb5b88",
+        "status": "Out of Service",
+        "created_at": "2023-08-14T07:22:51.390Z",
+        "updated_at": "2023-08-14T06:45:43.905Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "76da8b78-898a-46ba-82fb-af42dd8ee194",
+        "email": "Everett_DAmore@gmail.com",
+        "firstName": "Dax",
+        "lastName": "Barton",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29070445",
+        "tenantId": null
+      },
+      {
+        "reference": "2ae0c6a8-097f-4ec0-a772-7f687b477486",
+        "email": "Robyn_Batz@gmail.com",
+        "firstName": "Telly",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23908818",
+        "tenantId": null
+      },
+      {
+        "reference": "761ab001-1bf9-40d5-9da1-46de76361adb",
+        "email": "Jacynthe.Fadel40@yahoo.com",
+        "firstName": "Lucious",
+        "lastName": "Schmeler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20145307",
+        "tenantId": null
+      },
+      {
+        "reference": "27ded7be-6f3e-4051-bf74-73e00d324f69",
+        "email": "Jayce0@hotmail.com",
+        "firstName": "Ronaldo",
+        "lastName": "Carter",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1114.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "51431ad1-65ae-4d59-a858-46fb2183e83d",
+        "email": "Hardy.Wiegand@gmail.com",
+        "firstName": "Faye",
+        "lastName": "Vandervort",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/791.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "bike": [
+      {
+        "id": "8b40a10e-aeff-446f-a85d-d2e4603a2a81",
+        "status": "Available",
+        "created_at": "2023-08-13T18:10:26.323Z",
+        "updated_at": "2023-08-14T07:21:33.204Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5b561336-54da-46dc-a861-b7463fcd7e40",
+        "status": "In Use",
+        "created_at": "2023-08-13T19:57:01.570Z",
+        "updated_at": "2023-08-13T17:25:24.199Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "80351c8b-4d3e-4c59-8131-128006673769",
+        "status": "Under Maintenance",
+        "created_at": "2023-08-14T03:19:04.828Z",
+        "updated_at": "2023-08-13T19:03:23.628Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6fadcd20-32a5-4e20-96f6-584f92cfc31a",
+        "status": "Reserved",
+        "created_at": "2023-08-14T07:41:08.133Z",
+        "updated_at": "2023-08-13T15:28:11.828Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c5efe507-abdc-46a7-881f-acaff3a3dee7",
+        "status": "Out of Service",
+        "created_at": "2023-08-14T00:47:39.793Z",
+        "updated_at": "2023-08-13T17:24:50.838Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6b83f00a-ddb4-4007-ac6e-8d87ec86f9ab",
+        "email": "Tremaine52@gmail.com",
+        "firstName": "Stella",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/27282553",
+        "tenantId": null
+      },
+      {
+        "reference": "a8747b0f-0122-4359-8ece-fd7a4636f5fc",
+        "email": "Rylan.Turner73@yahoo.com",
+        "firstName": "Bobbie",
+        "lastName": "Swaniawski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/260.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6826a4fb-c980-4857-87b7-be96893e89e6",
+        "email": "Harold_Cummerata@gmail.com",
+        "firstName": "Kamren",
+        "lastName": "Ratke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1000.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8d85074f-7446-41d6-ac7c-5983efcb8f91",
+        "email": "Rahul31@gmail.com",
+        "firstName": "Marcelina",
+        "lastName": "Reilly",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/912.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "55de2b42-b932-4465-b77c-e2e57c4cb4f4",
+        "email": "Mathias2@gmail.com",
+        "firstName": "Cassie",
+        "lastName": "Terry",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75620256",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "bike": [
+      {
+        "id": "98108abc-9bed-422b-a417-515a01273906",
+        "status": "Available",
+        "created_at": "2023-08-13T16:33:39.912Z",
+        "updated_at": "2023-08-14T03:57:30.730Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e4876f07-b337-4cbd-838f-04864d5e9d1c",
+        "status": "In Use",
+        "created_at": "2023-08-14T08:39:07.619Z",
+        "updated_at": "2023-08-13T20:28:01.297Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b4a57d1c-6ce1-441a-9b91-3590a69a1647",
+        "status": "Under Maintenance",
+        "created_at": "2023-08-14T06:32:24.395Z",
+        "updated_at": "2023-08-13T23:12:04.755Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2e8fbc40-6c41-4af4-87ad-a19f16f480fd",
+        "status": "Reserved",
+        "created_at": "2023-08-13T15:41:34.512Z",
+        "updated_at": "2023-08-14T05:36:11.105Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3aff28be-e21a-445b-afa1-ccf2d8a21ab6",
+        "status": "Out of Service",
+        "created_at": "2023-08-14T05:13:16.548Z",
+        "updated_at": "2023-08-13T12:34:44.613Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8509e2d1-513e-4e77-aadc-ed29cfd13475",
+        "email": "Eveline.Pouros@gmail.com",
+        "firstName": "Zoila",
+        "lastName": "Stiedemann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/767.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b6e87387-502b-4578-9079-affba83dcdc3",
+        "email": "Broderick.Willms@yahoo.com",
+        "firstName": "Roy",
+        "lastName": "Romaguera",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83502419",
+        "tenantId": null
+      },
+      {
+        "reference": "cf124bb8-6921-4e37-a32f-9e09f4924461",
+        "email": "Jon43@hotmail.com",
+        "firstName": "Thurman",
+        "lastName": "Stanton",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/62.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "193778f2-edc0-4eeb-b8d6-1a78cc3c45e8",
+        "email": "Trevion.Stiedemann12@gmail.com",
+        "firstName": "Emerald",
+        "lastName": "Legros",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/299.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bb9749c7-3f16-4bb4-8cf9-611e06716946",
+        "email": "Shyann.Glover81@gmail.com",
+        "firstName": "Buck",
+        "lastName": "White",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/274.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "bike": [
+      {
+        "id": "d1de948c-6dcd-4b98-b7a8-fdf132b5f155",
+        "status": "Available",
+        "created_at": "2023-08-14T02:20:31.005Z",
+        "updated_at": "2023-08-13T18:20:51.777Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d5200f1c-0e03-4d52-9597-a54dc6d32cbd",
+        "status": "In Use",
+        "created_at": "2023-08-13T15:57:55.046Z",
+        "updated_at": "2023-08-13T23:46:25.330Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "13b6708a-bb27-4b09-9f00-651055190370",
+        "status": "Under Maintenance",
+        "created_at": "2023-08-14T02:53:17.428Z",
+        "updated_at": "2023-08-14T01:05:37.968Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6a63bd73-28e8-4c30-adba-2d84cc6d97d5",
+        "status": "Reserved",
+        "created_at": "2023-08-13T19:55:28.494Z",
+        "updated_at": "2023-08-14T01:36:52.732Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b2a7b637-4f0a-4097-9ace-3d9b0ea29a83",
+        "status": "Out of Service",
+        "created_at": "2023-08-14T03:00:39.736Z",
+        "updated_at": "2023-08-13T12:40:16.573Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0d9d557b-16a3-440c-bae3-803eb41c9eb3",
+        "email": "Junius_Parisian@hotmail.com",
+        "firstName": "Estella",
+        "lastName": "Wolf",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77329922",
+        "tenantId": null
+      },
+      {
+        "reference": "991b4b0f-9ed8-4244-954a-4b8e85d6a70d",
+        "email": "Alan.Yost@hotmail.com",
+        "firstName": "Geo",
+        "lastName": "Kovacek-Mayert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/68210032",
+        "tenantId": null
+      },
+      {
+        "reference": "dadce570-a164-4ec8-ae08-10ed2618b4c5",
+        "email": "Cory.Schmeler@gmail.com",
+        "firstName": "Rosie",
+        "lastName": "Morissette",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92343902",
+        "tenantId": null
+      },
+      {
+        "reference": "38873fea-f2f5-4088-96d8-56fd170cf0c8",
+        "email": "Celia36@gmail.com",
+        "firstName": "Alexys",
+        "lastName": "Kertzmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/163.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6ea9dbd3-704e-47c6-8884-482a94628587",
+        "email": "Mateo25@gmail.com",
+        "firstName": "Rosie",
+        "lastName": "Borer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/518.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "bike": [
+      {
+        "id": "df3e1303-8903-4115-a785-174f22685ffe",
+        "status": "Available",
+        "created_at": "2023-08-14T00:18:49.279Z",
+        "updated_at": "2023-08-13T13:52:44.938Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ba49d274-52ee-4f62-a543-08a98e1567e7",
+        "status": "In Use",
+        "created_at": "2023-08-14T01:21:58.274Z",
+        "updated_at": "2023-08-14T03:56:41.321Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "310529d6-ed3d-4331-b831-73dfaa7af3ff",
+        "status": "Under Maintenance",
+        "created_at": "2023-08-13T22:20:26.756Z",
+        "updated_at": "2023-08-14T01:16:57.394Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0a8c23af-9eab-46f9-af2e-c497ad27206e",
+        "status": "Reserved",
+        "created_at": "2023-08-13T21:18:29.092Z",
+        "updated_at": "2023-08-13T12:09:54.946Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "731ceae6-bba5-46d0-9924-d16d594039a7",
+        "status": "Out of Service",
+        "created_at": "2023-08-13T21:34:08.880Z",
+        "updated_at": "2023-08-13T16:14:08.427Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6e34d000-6d2b-4beb-8041-50f27180ac96",
+        "email": "Frankie.Nikolaus@hotmail.com",
+        "firstName": "Antwan",
+        "lastName": "Rogahn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/864.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "dda8909b-b80c-45a0-87a3-bdab468f1a83",
+        "email": "Anya.Kling32@hotmail.com",
+        "firstName": "Kyla",
+        "lastName": "Ullrich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/253.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4eebab54-3b46-4ea1-9fb2-9bf262773342",
+        "email": "Bernard.Little38@gmail.com",
+        "firstName": "Rudy",
+        "lastName": "Moore",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/970.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "902ef020-38dd-4c6b-9fae-4d31cfba9006",
+        "email": "Mariela.Pagac92@gmail.com",
+        "firstName": "Thad",
+        "lastName": "Stanton",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16385058",
+        "tenantId": null
+      },
+      {
+        "reference": "d83f1786-9d49-40c4-a655-e62a1c9b0a60",
+        "email": "Serenity.Champlin@yahoo.com",
+        "firstName": "Jana",
+        "lastName": "Marvin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1091.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "bike": [
+      {
+        "id": "0dac960b-090c-402f-9c48-f2c6fac946dd",
+        "status": "Available",
+        "created_at": "2023-08-13T12:20:33.045Z",
+        "updated_at": "2023-08-13T18:50:14.817Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8c9a4576-1372-4f86-a95e-8baee88dfabf",
+        "status": "In Use",
+        "created_at": "2023-08-14T07:09:35.397Z",
+        "updated_at": "2023-08-13T10:01:24.476Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6be5e75e-8583-4fcc-a2d2-fc944058657b",
+        "status": "Under Maintenance",
+        "created_at": "2023-08-14T08:47:57.104Z",
+        "updated_at": "2023-08-13T09:16:23.532Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b77b63a0-ca57-4e70-b39d-3a365fc519d3",
+        "status": "Reserved",
+        "created_at": "2023-08-14T02:58:19.308Z",
+        "updated_at": "2023-08-13T10:46:16.247Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7e3bbb88-0192-4431-ad35-cc2e570d6364",
+        "status": "Out of Service",
+        "created_at": "2023-08-13T21:56:34.543Z",
+        "updated_at": "2023-08-14T03:19:32.801Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "371c53d4-1a66-4c51-a78a-3ae565a142a2",
+        "email": "Angie_Swift@hotmail.com",
+        "firstName": "Bridgette",
+        "lastName": "Green-Koch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/357.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "072dbefd-d0f3-4678-b3fb-ab1c9b39a0fc",
+        "email": "Dovie.Bradtke37@yahoo.com",
+        "firstName": "Mireille",
+        "lastName": "Koepp",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29965733",
+        "tenantId": null
+      },
+      {
+        "reference": "7cf7f1f9-d8d5-4e77-a399-8017d7ae137c",
+        "email": "Cathrine98@hotmail.com",
+        "firstName": "Elisha",
+        "lastName": "Waters",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1144.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8d81b1ac-2b03-4a3b-bdbf-d03e44ca687e",
+        "email": "Karina58@yahoo.com",
+        "firstName": "Malvina",
+        "lastName": "Stoltenberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39443609",
+        "tenantId": null
+      },
+      {
+        "reference": "66150e7b-e3d9-4f66-a44a-52b64a61fa52",
+        "email": "Ed_Dare39@yahoo.com",
+        "firstName": "Vilma",
+        "lastName": "Hammes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1163.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "bike": [
+      {
+        "id": "f201336f-a68d-401c-a636-6b55c2425db8",
+        "status": "Available",
+        "created_at": "2023-08-13T09:22:20.986Z",
+        "updated_at": "2023-08-14T01:17:36.958Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "26d81d25-ece2-4004-bcb0-fe4251d0dcd7",
+        "status": "In Use",
+        "created_at": "2023-08-13T15:07:06.012Z",
+        "updated_at": "2023-08-14T07:39:13.487Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "24bf2722-e713-4af9-87e9-b6a0239f43d7",
+        "status": "Under Maintenance",
+        "created_at": "2023-08-13T11:59:05.373Z",
+        "updated_at": "2023-08-13T16:34:02.518Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2b1c8e52-684a-45b6-94ac-1f2621358f65",
+        "status": "Reserved",
+        "created_at": "2023-08-13T10:34:11.215Z",
+        "updated_at": "2023-08-14T03:07:49.117Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "87d0997b-6fbd-4b23-a230-6db849879ee2",
+        "status": "Out of Service",
+        "created_at": "2023-08-13T20:54:30.337Z",
+        "updated_at": "2023-08-14T00:15:45.090Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "3636cbb6-8a83-4387-aabc-26235ab81634",
+        "email": "Marc_Mueller44@yahoo.com",
+        "firstName": "Estefania",
+        "lastName": "Berge",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74146914",
+        "tenantId": null
+      },
+      {
+        "reference": "bb22f5a2-be7e-4874-884e-22c69905db85",
+        "email": "Dayna_Balistreri80@gmail.com",
+        "firstName": "Alisa",
+        "lastName": "Dicki",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38938389",
+        "tenantId": null
+      },
+      {
+        "reference": "69282793-7c54-468a-b968-b5e8e987c85b",
+        "email": "Abbey5@gmail.com",
+        "firstName": "Trudie",
+        "lastName": "Stehr",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40366108",
+        "tenantId": null
+      },
+      {
+        "reference": "89f62673-1c8f-4af2-a360-b17e51eae179",
+        "email": "Willy.Bartoletti@yahoo.com",
+        "firstName": "Amie",
+        "lastName": "Pfannerstill",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73586149",
+        "tenantId": null
+      },
+      {
+        "reference": "1c52d454-231f-48fb-995c-77b0ab60d391",
+        "email": "Clay_Harvey@gmail.com",
+        "firstName": "Elian",
+        "lastName": "Vandervort",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/35.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
